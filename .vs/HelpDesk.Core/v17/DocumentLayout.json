@@ -1,0 +1,326 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\HelpDesk.Core\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7209E032-1162-4730-ACC4-02805E9CCE0C}|HelpDesk.Tests.Unit\\HelpDesk.Tests.Unit.csproj|c:\\users\\user\\desktop\\helpdesk.core\\helpdesk.tests.unit\\databasetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7209E032-1162-4730-ACC4-02805E9CCE0C}|HelpDesk.Tests.Unit\\HelpDesk.Tests.Unit.csproj|solutionrelative:helpdesk.tests.unit\\databasetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1BC3F3D-6CA4-42E8-A498-D9AE84FA3577}|HelpDesk.Data\\HelpDesk.Data.csproj|c:\\users\\user\\desktop\\helpdesk.core\\helpdesk.data\\ticketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1BC3F3D-6CA4-42E8-A498-D9AE84FA3577}|HelpDesk.Data\\HelpDesk.Data.csproj|solutionrelative:helpdesk.data\\ticketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1BC3F3D-6CA4-42E8-A498-D9AE84FA3577}|HelpDesk.Data\\HelpDesk.Data.csproj|c:\\users\\user\\desktop\\helpdesk.core\\helpdesk.data\\seed.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{A1BC3F3D-6CA4-42E8-A498-D9AE84FA3577}|HelpDesk.Data\\HelpDesk.Data.csproj|solutionrelative:helpdesk.data\\seed.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1BC3F3D-6CA4-42E8-A498-D9AE84FA3577}|HelpDesk.Data\\HelpDesk.Data.csproj|c:\\users\\user\\desktop\\helpdesk.core\\helpdesk.data\\schema.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{A1BC3F3D-6CA4-42E8-A498-D9AE84FA3577}|HelpDesk.Data\\HelpDesk.Data.csproj|solutionrelative:helpdesk.data\\schema.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7209E032-1162-4730-ACC4-02805E9CCE0C}|HelpDesk.Tests.Unit\\HelpDesk.Tests.Unit.csproj|c:\\users\\user\\desktop\\helpdesk.core\\helpdesk.tests.unit\\ticketservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7209E032-1162-4730-ACC4-02805E9CCE0C}|HelpDesk.Tests.Unit\\HelpDesk.Tests.Unit.csproj|solutionrelative:helpdesk.tests.unit\\ticketservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7209E032-1162-4730-ACC4-02805E9CCE0C}|HelpDesk.Tests.Unit\\HelpDesk.Tests.Unit.csproj|c:\\users\\user\\desktop\\helpdesk.core\\helpdesk.tests.unit\\slacalculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7209E032-1162-4730-ACC4-02805E9CCE0C}|HelpDesk.Tests.Unit\\HelpDesk.Tests.Unit.csproj|solutionrelative:helpdesk.tests.unit\\slacalculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7209E032-1162-4730-ACC4-02805E9CCE0C}|HelpDesk.Tests.Unit\\HelpDesk.Tests.Unit.csproj|c:\\users\\user\\desktop\\helpdesk.core\\helpdesk.tests.unit\\faketicketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7209E032-1162-4730-ACC4-02805E9CCE0C}|HelpDesk.Tests.Unit\\HelpDesk.Tests.Unit.csproj|solutionrelative:helpdesk.tests.unit\\faketicketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B235CD-0DB2-4CE0-A205-E379197C1B25}|HelpDesk.Core\\HelpDesk.Core.csproj|c:\\users\\user\\desktop\\helpdesk.core\\helpdesk.core\\ticketservice.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B235CD-0DB2-4CE0-A205-E379197C1B25}|HelpDesk.Core\\HelpDesk.Core.csproj|solutionrelative:helpdesk.core\\ticketservice.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B235CD-0DB2-4CE0-A205-E379197C1B25}|HelpDesk.Core\\HelpDesk.Core.csproj|c:\\users\\user\\desktop\\helpdesk.core\\helpdesk.core\\iticketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B235CD-0DB2-4CE0-A205-E379197C1B25}|HelpDesk.Core\\HelpDesk.Core.csproj|solutionrelative:helpdesk.core\\iticketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B235CD-0DB2-4CE0-A205-E379197C1B25}|HelpDesk.Core\\HelpDesk.Core.csproj|c:\\users\\user\\desktop\\helpdesk.core\\helpdesk.core\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B235CD-0DB2-4CE0-A205-E379197C1B25}|HelpDesk.Core\\HelpDesk.Core.csproj|solutionrelative:helpdesk.core\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B235CD-0DB2-4CE0-A205-E379197C1B25}|HelpDesk.Core\\HelpDesk.Core.csproj|c:\\users\\user\\desktop\\helpdesk.core\\helpdesk.core\\exceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B235CD-0DB2-4CE0-A205-E379197C1B25}|HelpDesk.Core\\HelpDesk.Core.csproj|solutionrelative:helpdesk.core\\exceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B235CD-0DB2-4CE0-A205-E379197C1B25}|HelpDesk.Core\\HelpDesk.Core.csproj|c:\\users\\user\\desktop\\helpdesk.core\\helpdesk.core\\statustransitionvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B235CD-0DB2-4CE0-A205-E379197C1B25}|HelpDesk.Core\\HelpDesk.Core.csproj|solutionrelative:helpdesk.core\\statustransitionvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B235CD-0DB2-4CE0-A205-E379197C1B25}|HelpDesk.Core\\HelpDesk.Core.csproj|c:\\users\\user\\desktop\\helpdesk.core\\helpdesk.core\\slacalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B235CD-0DB2-4CE0-A205-E379197C1B25}|HelpDesk.Core\\HelpDesk.Core.csproj|solutionrelative:helpdesk.core\\slacalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B235CD-0DB2-4CE0-A205-E379197C1B25}|HelpDesk.Core\\HelpDesk.Core.csproj|c:\\users\\user\\desktop\\helpdesk.core\\helpdesk.core\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B235CD-0DB2-4CE0-A205-E379197C1B25}|HelpDesk.Core\\HelpDesk.Core.csproj|solutionrelative:helpdesk.core\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B33F37F3-6FAE-4839-9EB2-A956E103E195}|HelpDesk.App\\HelpDesk.App.csproj|c:\\users\\user\\desktop\\helpdesk.core\\helpdesk.app\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B33F37F3-6FAE-4839-9EB2-A956E103E195}|HelpDesk.App\\HelpDesk.App.csproj|solutionrelative:helpdesk.app\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B33F37F3-6FAE-4839-9EB2-A956E103E195}|HelpDesk.App\\HelpDesk.App.csproj|c:\\users\\user\\desktop\\helpdesk.core\\helpdesk.app\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B33F37F3-6FAE-4839-9EB2-A956E103E195}|HelpDesk.App\\HelpDesk.App.csproj|solutionrelative:helpdesk.app\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1BC3F3D-6CA4-42E8-A498-D9AE84FA3577}|HelpDesk.Data\\HelpDesk.Data.csproj|c:\\users\\user\\desktop\\helpdesk.core\\helpdesk.data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1BC3F3D-6CA4-42E8-A498-D9AE84FA3577}|HelpDesk.Data\\HelpDesk.Data.csproj|solutionrelative:helpdesk.data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1BC3F3D-6CA4-42E8-A498-D9AE84FA3577}|HelpDesk.Data\\HelpDesk.Data.csproj|c:\\users\\user\\desktop\\helpdesk.core\\helpdesk.data\\schema.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{A1BC3F3D-6CA4-42E8-A498-D9AE84FA3577}|HelpDesk.Data\\HelpDesk.Data.csproj|solutionrelative:helpdesk.data\\schema.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1BC3F3D-6CA4-42E8-A498-D9AE84FA3577}|HelpDesk.Data\\HelpDesk.Data.csproj|c:\\users\\user\\desktop\\helpdesk.core\\helpdesk.data\\seed.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{A1BC3F3D-6CA4-42E8-A498-D9AE84FA3577}|HelpDesk.Data\\HelpDesk.Data.csproj|solutionrelative:helpdesk.data\\seed.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 151,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DatabaseTests.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\HelpDesk.Core\\HelpDesk.Tests.Unit\\DatabaseTests.cs",
+              "RelativeDocumentMoniker": "HelpDesk.Tests.Unit\\DatabaseTests.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\HelpDesk.Core\\HelpDesk.Tests.Unit\\DatabaseTests.cs",
+              "RelativeToolTip": "HelpDesk.Tests.Unit\\DatabaseTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T09:19:34.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TicketRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\HelpDesk.Core\\HelpDesk.Data\\TicketRepository.cs",
+              "RelativeDocumentMoniker": "HelpDesk.Data\\TicketRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\HelpDesk.Core\\HelpDesk.Data\\TicketRepository.cs",
+              "RelativeToolTip": "HelpDesk.Data\\TicketRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T09:18:32.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "seed.sql ",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\HelpDesk.Core\\HelpDesk.Data\\seed.sql",
+              "RelativeDocumentMoniker": "HelpDesk.Data\\seed.sql",
+              "ToolTip": "C:\\Users\\User\\Desktop\\HelpDesk.Core\\HelpDesk.Data\\seed.sql",
+              "RelativeToolTip": "HelpDesk.Data\\seed.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-11-15T09:13:39.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "schema.sql ",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\HelpDesk.Core\\HelpDesk.Data\\schema.sql",
+              "RelativeDocumentMoniker": "HelpDesk.Data\\schema.sql",
+              "ToolTip": "C:\\Users\\User\\Desktop\\HelpDesk.Core\\HelpDesk.Data\\schema.sql",
+              "RelativeToolTip": "HelpDesk.Data\\schema.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-11-15T09:12:56.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TicketServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\HelpDesk.Core\\HelpDesk.Tests.Unit\\TicketServiceTests.cs",
+              "RelativeDocumentMoniker": "HelpDesk.Tests.Unit\\TicketServiceTests.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\HelpDesk.Core\\HelpDesk.Tests.Unit\\TicketServiceTests.cs",
+              "RelativeToolTip": "HelpDesk.Tests.Unit\\TicketServiceTests.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAswBEAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T09:07:37.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SlaCalculatorTests.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\HelpDesk.Core\\HelpDesk.Tests.Unit\\SlaCalculatorTests.cs",
+              "RelativeDocumentMoniker": "HelpDesk.Tests.Unit\\SlaCalculatorTests.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\HelpDesk.Core\\HelpDesk.Tests.Unit\\SlaCalculatorTests.cs",
+              "RelativeToolTip": "HelpDesk.Tests.Unit\\SlaCalculatorTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T09:06:45.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FakeTicketRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\HelpDesk.Core\\HelpDesk.Tests.Unit\\FakeTicketRepository.cs",
+              "RelativeDocumentMoniker": "HelpDesk.Tests.Unit\\FakeTicketRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\HelpDesk.Core\\HelpDesk.Tests.Unit\\FakeTicketRepository.cs",
+              "RelativeToolTip": "HelpDesk.Tests.Unit\\FakeTicketRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T09:05:02.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TicketService.cs.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\HelpDesk.Core\\HelpDesk.Core\\TicketService.cs.cs",
+              "RelativeDocumentMoniker": "HelpDesk.Core\\TicketService.cs.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\HelpDesk.Core\\HelpDesk.Core\\TicketService.cs.cs",
+              "RelativeToolTip": "HelpDesk.Core\\TicketService.cs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T09:02:31.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ITicketRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\HelpDesk.Core\\HelpDesk.Core\\ITicketRepository.cs",
+              "RelativeDocumentMoniker": "HelpDesk.Core\\ITicketRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\HelpDesk.Core\\HelpDesk.Core\\ITicketRepository.cs",
+              "RelativeToolTip": "HelpDesk.Core\\ITicketRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T09:02:10.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\HelpDesk.Core\\HelpDesk.Core\\Ticket.cs",
+              "RelativeDocumentMoniker": "HelpDesk.Core\\Ticket.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\HelpDesk.Core\\HelpDesk.Core\\Ticket.cs",
+              "RelativeToolTip": "HelpDesk.Core\\Ticket.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T09:01:29.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Exceptions.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\HelpDesk.Core\\HelpDesk.Core\\Exceptions.cs",
+              "RelativeDocumentMoniker": "HelpDesk.Core\\Exceptions.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\HelpDesk.Core\\HelpDesk.Core\\Exceptions.cs",
+              "RelativeToolTip": "HelpDesk.Core\\Exceptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T09:00:38.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StatusTransitionValidator.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\HelpDesk.Core\\HelpDesk.Core\\StatusTransitionValidator.cs",
+              "RelativeDocumentMoniker": "HelpDesk.Core\\StatusTransitionValidator.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\HelpDesk.Core\\HelpDesk.Core\\StatusTransitionValidator.cs",
+              "RelativeToolTip": "HelpDesk.Core\\StatusTransitionValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T08:59:55.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SlaCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\HelpDesk.Core\\HelpDesk.Core\\SlaCalculator.cs",
+              "RelativeDocumentMoniker": "HelpDesk.Core\\SlaCalculator.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\HelpDesk.Core\\HelpDesk.Core\\SlaCalculator.cs",
+              "RelativeToolTip": "HelpDesk.Core\\SlaCalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T08:59:10.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Enums.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\HelpDesk.Core\\HelpDesk.Core\\Enums.cs",
+              "RelativeDocumentMoniker": "HelpDesk.Core\\Enums.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\HelpDesk.Core\\HelpDesk.Core\\Enums.cs",
+              "RelativeToolTip": "HelpDesk.Core\\Enums.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T08:58:33.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\HelpDesk.Core\\HelpDesk.App\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "HelpDesk.App\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\HelpDesk.Core\\HelpDesk.App\\MainWindow.xaml",
+              "RelativeToolTip": "HelpDesk.App\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-15T08:54:29.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\HelpDesk.Core\\HelpDesk.App\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "HelpDesk.App\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\HelpDesk.Core\\HelpDesk.App\\MainWindow.xaml.cs",
+              "RelativeToolTip": "HelpDesk.App\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T08:54:28.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\HelpDesk.Core\\HelpDesk.Data\\Class1.cs",
+              "RelativeDocumentMoniker": "HelpDesk.Data\\Class1.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\HelpDesk.Core\\HelpDesk.Data\\Class1.cs",
+              "RelativeToolTip": "HelpDesk.Data\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T08:53:44.023Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
